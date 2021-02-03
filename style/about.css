@@ -1,0 +1,26 @@
+.About {
+    height: 504px;
+    font-size: 24px;
+    line-height: 29px;
+    color: #333333;
+    padding: 94px 166px 0;
+}
+
+.About_title{
+    font-size: 24px;
+    color: #333333;
+    margin-bottom: 76px;
+}
+.About_text{
+    font-size: 18px;
+    color: #333333;
+}
+.about_h2 {
+    margin-bottom: 73px;
+}
+
+.about_p {
+    font-size: 18px;
+    line-height: 30px;
+    text-align: justify;
+}

@@ -1,0 +1,72 @@
+.port {
+    height: 822px;
+    padding: 93px 165px 145px;
+}
+
+.port_title {
+    margin-bottom: 83px;
+}
+
+.port_desc {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 125px;
+}
+
+.port_h3 {
+    margin-bottom: 48px;
+}
+
+.port_p {
+    font-size: 18px;
+    line-height: 30px;
+    color: #333333;
+}
+
+.port_symbolsCont {
+    font-size: 24px;
+    color: #333;
+}
+
+.port_symbolsCont img {
+    height: 24px;
+    width: 24px;
+    object-fit: contain;
+}
+
+.port_content {
+    display: flex;
+}
+
+.port_textCont{
+    width: 40%;
+}
+
+.port_galleryCont {
+    width: 60%;
+    display: grid;
+    grid-template: 1fr / 1fr 1fr;
+    grid-column-gap: 30px;
+}
+
+.port_firstImg {
+  width: 350;
+  height: 144px;
+  margin-bottom: 26px;  
+}
+
+.port_secondImg {
+    height: 233px;
+    width: 255px;
+    margin-bottom: 26px;
+}
+
+.port_thirdImg {
+    height: 233px;
+    width: 349px;
+}
+
+.port_fourthImg {
+    width: 255px;
+    height: 144px;
+}

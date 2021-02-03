@@ -1,0 +1,50 @@
+header {
+    height: 268px;
+    background-image: url("../imega/bg.png");
+    background-position: center;
+    background-size: cover;
+    padding: 96px 166px 240px;
+    color:#FFFFFF;    
+}
+
+.header_bg {
+height: 100%;
+}
+.navigation {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;    
+    margin-bottom: 85px;
+}
+.logo{
+    width: 50%;
+    font-weight: bold;
+    font-size-adjust: 24px;
+    line-height: 29px;
+}
+.logo a {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+nav {
+    width: 50%;
+    display: flex;
+    justify-content: space-between; 
+}
+
+.header_title{
+    margin-bottom: 25px;
+}
+
+.header_link{
+font-size: 28px;
+display: flex;
+justify-content: space-around;
+}
+
+.header_desk_p{
+    font-size: 24px;   
+    margin-bottom: 18px;
+}
